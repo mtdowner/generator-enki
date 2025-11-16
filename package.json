@@ -19,7 +19,7 @@
     "yeoman-generator": "^0.24.1"
   },
   "devDependencies": {
-    "eslint": "^5.6.1",
+    "eslint": "^9.39.1",
     "prettier": "^1.14.3",
     "eslint-plugin-promise": "^4.0.1",
     "@enkidevs/eslint-config-base": "^0.2.4"
